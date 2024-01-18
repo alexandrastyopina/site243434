@@ -1,0 +1,21 @@
+<html>
+     <title>Дельфины</title>
+     <body style="font-family:sans-serif">
+        <header>
+            <img src="https://delphin-imperial-lara.flagman.travel/upload/iblock/cad/cad64b9d586371ebb5ed50385f085c06.jpg" height="80px">
+            <a href="#information" style="font-size:20px">Интересные факты о дельфинах</a>
+            <a href="#contacts" style="font-size:20px">Контактная информация</a>
+        </header>
+            <main style="background-color:#B22222">
+                <h1 style="text-align:center;font-size:50px">Дельфины</h1>
+                <h2 id="information" style="font-size:40px">Интересные факты</h2>
+                <p  style="font-size:20px">Тело дельфина идеально приспособлено для движения в воде и позволяет им очень быстро плавать. Этому также помогает очень эластичная и гладкая кожа, благодаря маслянистым выделениям, облегчающим скольжение в воде. Длина — 2,3—3,7 м, вес — 150—300 кг.</p>
+                <img src="https://images.techinsider.ru/upload/img_cache/a74/a74b85d83e320c1d0c4596b080123122_ce_1889x1258x16x0_cropped_666x444.jpg">
+               <p style="font-size:20px"> Дельфины - это хищники, которые едят в среднем 15 килограм рыбы в день. Их рацион очень разнообразен, но креветки и кальмары - любимые блюда. Поскольку дельфины очень много едят, их пишеварение очень быстрое.</p>
+            </main>
+                <footer>
+                    <p id="contacts" style="font-size:20px">Почта:dolphinfamily@rambler.ru</p>
+                    <p style="font-size:20px">Телефон:88005553535</p>
+                </footer>
+    </body>
+</html>
